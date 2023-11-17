@@ -13,7 +13,7 @@ import com.devlyn.hrworker.entities.Worker;
 import com.devlyn.hrworker.repositories.WorkerRepository;
 
 @RestController
-@RequestMapping(value = "/workres")
+@RequestMapping(value = "/workers")
 public class WorkerResource {
 
 	@Autowired
