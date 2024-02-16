@@ -73,7 +73,4 @@ public class Worker implements Serializable {
 	}
 	
 	
-	
-	
-	
 }
